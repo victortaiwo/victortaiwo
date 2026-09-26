@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Victor Taiwo — Mainframe Software Engineer</title>
+  <desc id="description">An ISPF-inspired terminal panel with bright green text, a menu bar, and a command prompt on a black screen.</desc>
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#39ff65" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="#020704"/>
+  <rect width="1200" height="320" fill="url(#scanlines)"/>
+  <g fill="#39ff65" font-family="Menlo, Monaco, Consolas, monospace">
+    <text x="48" y="40" font-size="18" xml:space="preserve">Menu   Utilities   Options   Help</text>
+    <path d="M48 60H1152" stroke="#238d3c" stroke-dasharray="8 6"/>
+
+    <text x="48" y="153" font-size="76" font-weight="700" letter-spacing="-3">VICTOR TAIWO</text>
+    <text x="52" y="202" font-size="28" letter-spacing="1">MAINFRAME SOFTWARE ENGINEER</text>
+
+    <path d="M48 245H1152" stroke="#238d3c" stroke-dasharray="8 6"/>
+    <text x="48" y="285" font-size="20">Command ===&gt;</text>
+    <rect x="212" y="268" width="12" height="20"/>
+  </g>
+</svg>
