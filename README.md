@@ -5,6 +5,7 @@
 - Building **[Zcrafter](https://www.zcrafter.com)** an AI-assisted terminal for mainframe work.
 - Previously at **Broadcom**, working on mainframe security and automation.
 - Former **IBM Z Student Ambassador** · **2026 Open Mainframe Project Ambassador**.
+- Northern Illinois University Alumni 2026 (Computer Science)
 
 ### Stack
 
