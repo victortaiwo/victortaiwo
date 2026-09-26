@@ -2,7 +2,7 @@
   <img src="assets/mainframe.svg" alt="Victor Taiwo — Mainframe Software Engineer" width="100%">
 </p>
 
-- Building **[Zcrafter](https://www.zcrafter.com)** — an AI-assisted terminal for mainframe work.
+- Building **[Zcrafter](https://www.zcrafter.com)** an AI-assisted terminal for mainframe work.
 - Previously at **Broadcom**, working on mainframe security and automation.
 - Former **IBM Z Student Ambassador** · **2026 Open Mainframe Project Ambassador**.
 
