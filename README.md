@@ -1,7 +1,7 @@
 - Building **[Zcrafter](https://www.zcrafter.com)** a team of AI agents that work on your mainframe.
 - Interned twice at **Broadcom**, working on mainframe security and AI automation.
-- Former **IBM Z Student Ambassador** · **2026 Open Mainframe Project Ambassador**.
-- Northern Illinois University Alumni 2026 (Computer Science)
+- Former **IBM Z** Student Ambassador · **Current Open Mainframe Project** Ambassador.
+- **Northern Illinois University** Alumni 2026 (Computer Science)
 
 ### Stack
 
