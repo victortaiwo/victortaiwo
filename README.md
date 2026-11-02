@@ -1,5 +1,5 @@
-- Building **[Zcrafter](https://www.zcrafter.com)** an AI-assisted terminal for mainframe work.
-- Previously at **Broadcom**, working on mainframe security and automation.
+- Building **[Zcrafter](https://www.zcrafter.com)** a team of AI agents that work on your mainframe.
+- Interned twice at **Broadcom**, working on mainframe security and AI automation.
 - Former **IBM Z Student Ambassador** · **2026 Open Mainframe Project Ambassador**.
 - Northern Illinois University Alumni 2026 (Computer Science)
 
@@ -22,4 +22,4 @@
 
 ---
 
-[LinkedIn](https://linkedin.com/in/victor-taiwo21) · [Zcrafter](https://www.zcrafter.com) · [Certifications](https://www.credly.com/users/victor-taiwo1)
+[LinkedIn](https://linkedin.com/in/victor-taiwo21) · [Certifications](https://www.credly.com/users/victor-taiwo1)
